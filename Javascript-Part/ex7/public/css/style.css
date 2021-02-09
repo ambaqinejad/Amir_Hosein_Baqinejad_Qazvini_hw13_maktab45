@@ -1,0 +1,19 @@
+.text-limit {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.centralize {
+    display: flex;
+    justify-content: center;
+}
+
+.centralize-text {
+    text-align: center;
+}
+
+.card-bg {
+    background-color: rgb(228, 230, 220);
+}
