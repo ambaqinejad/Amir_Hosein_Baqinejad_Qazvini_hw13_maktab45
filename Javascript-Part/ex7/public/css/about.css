@@ -1,0 +1,15 @@
+.pad-10 {
+    padding: 5px;
+}
+
+.pad-15-l-r {
+    padding: 0 15px;
+}
+
+.projectCart {
+    color: white;
+    background-color: rgb(39, 38, 41);
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+}
